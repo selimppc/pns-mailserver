@@ -1,0 +1,152 @@
+body{
+	margin: 0 auto;
+	background: #333;
+	color:#636363;
+	}
+	
+a{
+	text-decoration:none;
+	color:#636363 ;
+	font-weight:bold;} 
+	
+ a:hover{
+	text-decoration:none;}
+	
+.middleAccount{
+	height:885px;
+	width:778px;
+	margin:20px auto;
+	background-color:#FFF;
+	}
+	
+.ashcontacttop{
+	height:33px; 
+	width:100%; 
+	background: url(../images/ashcontact.png) no-repeat;
+	}
+	
+.topcontact{
+	width:200px; 
+	float:left; 
+	color:#FFF;
+
+	margin-left:10px;
+	}
+	
+.topcontact a{
+	color:#fff;
+	text-decoration:none;
+	}
+	
+.topcontact a:hover{
+	color:#2163a6;
+	text-decoration:none;
+	}
+	
+.topcontactgroup{
+	width:100px; 
+	float:left; 
+	color:#FFF;
+	}
+	
+.topcontactgroup a{
+	color:#fff;
+	}
+	
+.topcontactgroup a:hover{
+	color:#2163a6;
+	}
+	
+.contactbluetop{
+	height:49px; 
+	width:100%; 
+	background:url(../images/contactbluetop.png) no-repeat;
+	}
+	
+.contactblacktop{
+	margin-left:20px; 
+	height:33px; 
+	width:738px; 
+	background-color:#000; 
+	color:#fff; 
+	text-align:left; 
+	float:left;	
+}
+.newcontact{
+	width:100px; 
+	float:left; 
+	margin-left:20px; 
+	padding-top:5px;
+	}
+	
+.newcontact a{
+	color:#fff;
+	}
+	
+.newcontact a:hover{
+	color:#2163a6;
+	}
+	
+.color a{
+	color:#fff;
+	text-decoration:none;
+	}
+	
+.color a:hover{
+	color:#2163a6;
+	}
+	
+.black a{
+	color:#000000;
+	}
+	
+.black a:hover{
+	color:#000000;
+	}
+	
+.white a{
+	color:#FFF;
+	font-size:12px;
+	text-decoration:none;
+	}
+	
+.white a:hover{
+	color:#fff;
+	}
+.newcontactssave1{
+	 background-color: #1f5e9e;
+	  border:none; 
+	  font-weight:bold; 
+	  color:#FFF; 
+	  cursor:pointer; 
+	  padding:2px;}
+		
+.table a{
+	color:#FFF;
+	text-decoration:none;
+	}
+	
+.table a:hover{
+	color:#fff;
+	font-weight:bold;
+	}
+	
+#color tbody tr.even td {
+      background-color: #eee;
+
+    }
+	
+	#color tbody tr.even:hover td {
+      background-color:#CECEFF;
+    }
+
+#color tbody tr.odd  td {
+      background-color: #fff;
+	  border-bottom:1px solid #eee;
+    }
+
+#color tbody tr.odd:hover  td {
+      background-color:#CECEFF;
+    }
+	
+	
